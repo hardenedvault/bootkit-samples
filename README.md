@@ -1,5 +1,5 @@
-# Bootkit samples
-Bootkit sample from real-life attack. Be careful about tweaking the sample for research purpose. 
+# Bootkit Showcase: Real-World Examples of Infrastructure Security Threats
+Bootkits are a type of malware that infects the boot process of a computer, allowing attackers to gain persistent access and control over the system. Despite their potential to cause significant damage, many people, including security professionals, may not be familiar with the threat they pose to infrastructure security. This repository is a curated collection of bootkit samples that demonstrate the potential danger posed by this type of malware. These samples are provided for educational purposes and are intended to raise awareness of the threat landscape of bootkits, as well as to help security professionals better understand how to defend against them. All of them are from real-life attacks so be cautions about tweaking the sample for research or eductional purposes.
 
 Password: danger
 
