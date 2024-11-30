@@ -21,12 +21,13 @@ Password: danger
 | [Conti leaked chat](https://github.com/hardenedvault/bootkit-samples/blob/master/osint/conti_leaked_chat.md) | 2021 | ? | CSME via undocumented HECI, SMM | Windows/Linux/? | Conti group |
 | [CosmicStrand](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/) | 2022 | [2017](https://bbs.360.cn/thread-14959110-1-1.html) | DXE | Windows/? | N/A |
 | [BlackLotus](https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/) | [2022](https://www.bleepingcomputer.com/news/security/malware-dev-claims-to-sell-new-blacklotus-windows-uefi-bootkit/) | 2022 | ESP | Windows | N/A |
+| [Bootkitty](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/) | 2024 | 2024 | ESP | Linux | N/A |
 
 ## Massive exploitation
 | Vulnerability | Target |
 |:--------------------:|:-----------------:|
 |[CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)| UEFI Secure Boot |
-
+|[LogoFAIL (CVE-2023-40238)](https://www.binarly.io/blog/logofail-exploited-to-deploy-bootkitty-the-first-uefi-bootkit-for-linux) | UEFI |
 
 
 ## Threat model - "Know your enemy"
